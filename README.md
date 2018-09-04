@@ -1,4 +1,4 @@
-# Perception
+# Perception: Contributors: Brad Saund, Sagar Israni, Zaid Ashai, Alex Rochaix
 
 ## Setup on linux (tested on Ubuntu 16.04)
 Install python3 and tensorflow (preferably in a virtualenv)
